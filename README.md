@@ -107,6 +107,3 @@ python app.py
 - **PyTorch**: [PyTorch Official Documentation](https://pytorch.org/docs/)
 - **OpenCV**: [OpenCV Official Documentation](https://opencv.org/)
 - **PyQt5**: [PyQt5 Documentation](https://www.riverbankcomputing.com/software/pyqt/intro)
-
-For any issues or contributions, feel free to open an issue or submit a pull request!
-
