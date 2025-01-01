@@ -21,10 +21,10 @@ This project is a facial recognition application trained on the CelebA dataset u
 
 ### File Descriptions:
 
-1. ``: Contains the PyQt5-based GUI and the logic for handling user interactions and invoking the inference pipeline.
-2. ``: Implements the functions for loading the trained model and performing face recognition.
-3. ``: Notebook used for training the Siamese Network on the CelebA dataset.
-4. ``: Environment file to create a reproducible Conda environment for running the application.
+1. `app.py`: Contains the PyQt5-based GUI and the logic for handling user interactions and invoking the inference pipeline.
+2. `inference.py`: Implements the functions for loading the trained model and performing face recognition.
+3. `celeba_facerecognition.ipynb`: Notebook used for training the Siamese Network on the CelebA dataset.
+4. `environment.yaml`: Environment file to create a reproducible Conda environment for running the application.
 
 ### Architecture:
 
